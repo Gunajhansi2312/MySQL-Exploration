@@ -4,10 +4,8 @@
 - **Project objective:** 
 
    The project aims to provide management in the consumer goods domain with actionable insights by analyzing market trends, consumer behavior, and competitive positioning. It focuses oConducted comprehensive market research to identify trends, consumer behavior, and the competitive landscape, enabling data-driven decision-making.
-  
 
-  
- - **1.** SQL LAB a _[report]([https://github.com/Gunajhansi2312/Excel-Sale-Analytics-/blob/main/My%20Expenses.pdf](https://docs.google.com/presentation/d/1e2jmEAZapQrEf79zA5D8BcXdsqi2sn4u/pub?start=false&loop=false&delayms=3000&slide=id.p1))_
+ - **1.** SQL Lab _[report](https://github.com/Gunajhansi2312/MySQL-Exploration/blob/main/MYSQL%20LAB.pptx)_ 
 
  - **2.** Analyzed sales data to uncover key drivers of growth and areas for improvement, contributing to strategic planning and target setting.
  - **3.** Developed detailed consumer segments based on demographics, purchasing behavior, and preferences to optimize marketing strategies and product offerings.
